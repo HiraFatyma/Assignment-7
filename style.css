@@ -1,0 +1,45 @@
+body{
+   background-image: url(./back.jpg);
+   background-size: 1200px 365px;
+   background-repeat: no-repeat;
+
+}
+p{
+    opacity: 0.8;
+}
+header{
+    background-color: bisque;
+    text-align: center;
+    font-size: 35px;
+    font-style: italic;
+    margin-bottom: 10px;
+    
+}
+.navbar{
+    background-color: rgb(152, 179, 203);
+    font-size:25px;
+    position: sticky;
+    top: 0px;
+    text-decoration: none;
+}
+h1{
+    margin-top: 15px;
+}
+p{
+    margin-top: 10px;
+}
+.images{
+   margin-bottom: 20px;
+}
+#endbar{
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+    background-color: rgb(152, 212, 192);
+    width: 50px;
+    height: 20px;
+    text-align: center;
+    padding-top: 5px;
+    border-radius: 10px;
+    
+}
